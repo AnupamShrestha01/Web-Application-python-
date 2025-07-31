@@ -1,0 +1,14 @@
+				Techno property Nepal bill
+			----------------------------
+
+	 	 Koteshower ,kathmandu | contact number:9841612287 
+
+	 	-----------------------------------------------------------------------
+Customer Information
+---------------------
+Kitta Number        Customer Name               Rent Date            Return Date          Amount        Overdue Fine        Time
+--------------------------------------------------------------------------------------------
+102            Anupam shrestha               2024-05-22          2024-10-19          300000.0       N/A            2024-05-22 12:17:52 
+104            Anupam shrestha               2024-05-22          2024-10-19          400000.0       N/A            2024-05-22 12:17:52 
+105            Anupam shrestha               2024-05-22          2024-10-19          450000.0       N/A            2024-05-22 12:17:52 
+Thank you for choosing Techno Property Nepal!
